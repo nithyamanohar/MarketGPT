@@ -16,6 +16,9 @@ The project involved the following steps:
 
 5. **CI/CD Pipeline Implementation**: A Continuous Integration/Continuous Deployment (CI/CD) pipeline was established to automate the deployment process and ensure consistent and reliable updates to the project. This pipeline simplifies the deployment process and reduces the chance of errors.
 
+6. **Output**: Screenshots of sample Q&A are attached in the output folder. 
+
+
 ## Getting Started
 
 1. Clone the repository: `git clone <repository_url>`
