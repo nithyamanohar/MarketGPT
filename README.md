@@ -53,6 +53,8 @@ The CI/CD pipeline includes the following stages:
 
 2. **Building**: The frontend code is built to create optimized and production-ready assets.
 
+Steps to be implemented in the future
+
 3. **Dockerization**: The application is containerized using Docker to ensure consistency and portability.
 
 4. **Deployment**: The Docker image is deployed to a cloud service or a server using a cloud-based container orchestration platform.
