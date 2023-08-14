@@ -1,0 +1,9 @@
+langchain==0.0.142 
+openai==0.27.4 
+beautifulsoup4==4.12.2 
+chromadb==0.3.21 
+GitPython 
+youtube-transcript-api 
+tiktoken 
+bs4 
+google-api-python-client 
